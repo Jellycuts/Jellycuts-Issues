@@ -1,6 +1,6 @@
 ---
 name: Feature request or Feature Change
-about: Suggest an idea or revision for this project
+about: Suggest an idea or revision for Jellycuts
 title: ''
 labels: enhancement
 assignees: ActuallyZach
