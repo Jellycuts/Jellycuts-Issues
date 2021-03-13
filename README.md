@@ -1,2 +1,2 @@
 # Jellycuts-Issues
-A public issue tracker for the Jellycuts iOS app.
+A public issue tracker for the [Jellycuts](https://jellycuts.com) iOS app.
