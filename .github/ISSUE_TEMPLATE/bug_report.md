@@ -3,8 +3,6 @@ name: Bug report
 about: Create a report to help improve Jellycuts
 title: ''
 labels: bug
-assignees: ActuallyZach
-
 ---
 
 ## Describe the bug
