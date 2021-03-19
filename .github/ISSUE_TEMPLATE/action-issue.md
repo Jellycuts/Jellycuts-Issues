@@ -3,8 +3,6 @@ name: Action Issue
 about: An issue that occurs when converting into a Shortcut
 title: ''
 labels: Action Parsing, bug
-assignees: ActuallyZach
-
 ---
 
 # What action is the issue?
