@@ -3,8 +3,6 @@ name: Feature request or Feature Change
 about: Suggest an idea or revision for Jellycuts
 title: ''
 labels: enhancement
-assignees: ActuallyZach
-
 ---
 
 ## Is your feature request related to a problem? Please describe.
