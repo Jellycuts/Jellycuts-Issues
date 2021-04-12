@@ -25,6 +25,7 @@ If applicable, add screenshots to help explain your problem.
  - Device: [e.g. iPhone XR]
  - OS: [e.g. iOS 14.4]
  - Jellycuts Version [e.g. 0.9(15)] (Can be found in Settings -> About)
+ - Jailbroken? [Yes / No]
 
 
 ### Additional context
